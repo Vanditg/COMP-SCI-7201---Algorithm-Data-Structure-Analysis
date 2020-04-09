@@ -5,4 +5,7 @@ This repository contains assignment, tutorials, practical exam and solutions for
 [Assignment - 1](https://github.com/Vanditg/COMP-SCI-7201---Algorithm-Data-Structure-Analysis/tree/master/Assignment/Assignment%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7201---Algorithm-Data-Structure-Analysis/tree/master/Assignment/Assignment%20-%201/Solution)  
 
 ## WebSubmission TestCases and Output
-[Assignment - 1 WebSubmission TestCases](https://github.com/Vanditg/COMP-SCI-7201---Algorithm-Data-Structure-Analysis/tree/master/Assignment/Assignment%20-%201/WebSubmission)
+[Assignment - 1 WebSubmission TestCases](https://github.com/Vanditg/COMP-SCI-7201---Algorithm-Data-Structure-Analysis/tree/master/Assignment/Assignment%20-%201/WebSubmission)  
+
+## Final Quiz 
+[Quiz - 1](https://github.com/Vanditg/COMP-SCI-7201---Algorithm-Data-Structure-Analysis/tree/master/Final_Quiz)  
