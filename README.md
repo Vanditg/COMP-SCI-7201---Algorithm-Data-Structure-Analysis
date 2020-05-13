@@ -14,4 +14,5 @@ This repository contains assignment, tutorials, practical exam and solutions for
 [Assignment - 2 Canvas Discussion](https://github.com/Vanditg/COMP-SCI-7201---Algorithm-Data-Structure-Analysis/tree/master/Assignment/Assignment%20-%202/Discussion)  
 
 ## Final Quiz 
-[Quiz - 1](https://github.com/Vanditg/COMP-SCI-7201---Algorithm-Data-Structure-Analysis/tree/master/Final_Quiz)  
+[Quiz - 1](https://github.com/Vanditg/COMP-SCI-7201---Algorithm-Data-Structure-Analysis/tree/master/Final_Quiz/Final_Quiz_1)  
+[Quiz - 2](https://github.com/Vanditg/COMP-SCI-7201---Algorithm-Data-Structure-Analysis/tree/master/Final_Quiz/Final_Quiz_2/Quiz) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7201---Algorithm-Data-Structure-Analysis/tree/master/Final_Quiz/Final_Quiz_2/Solution)  
